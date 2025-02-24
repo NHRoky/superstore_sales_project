@@ -3,8 +3,8 @@ This is an analysis project for superstore sales.
 ## overview
 This project involves analyzing the Superstore Sales Data segment by customer based on Recency, Frequency, Monetary (RFM) metrics.The analysiis aims to understand customer behavior and catagorize the accordingly.
 # Files:
--`Superstore Sales Data.xlsx`: Provied data file
--`Superstore_Sales_Data1.csv`: After converting Data file
+- `Superstore Sales Data.xlsx`: Provied data file
+- `Superstore_Sales_Data1.csv`: After converting Data file
 - `PROJECT_1_DATA_SCIENCE.sql`: After converting Data file
   Note:database management system in MySQL.Data was Imported using Data import wizard tool.
   ## Methodology:
