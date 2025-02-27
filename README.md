@@ -16,7 +16,7 @@ This project involves analyzing the Superstore Sales Data segment by customer ba
 2.  xlsx file save in csv file.
 3.  customize the order date from general (Date) of ms excle.
 4.  Change Date format str_to_date function.
- ![image alt]([image_url](https://github.com/NHRoky/superstore_sales_project/blob/37d6a6fdfc8a61e9eadc1a5f6cfdfca7aec031cb/Screenshot%202025-02-27%20213914.png))
+ ![image alt](https://github.com/NHRoky/superstore_sales_project/blob/37d6a6fdfc8a61e9eadc1a5f6cfdfca7aec031cb/Screenshot%202025-02-27%20213914.png)
   
 
 
