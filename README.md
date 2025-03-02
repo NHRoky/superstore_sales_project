@@ -24,5 +24,5 @@ This project involves analyzing the Superstore Sales Data segment by customer ba
 # Find Total Data
  ![image alt](https://github.com/NHRoky/superstore_sales_project/blob/2a0a20fd395a30d478a100e06f866662d64e42a1/Screenshot%20(24).png)
  # Error Data clean
-  ![image alt] ()
+  ![image alt] (https://github.com/NHRoky/superstore_sales_project/blob/aada18dab03c11cd9df3abc8862d3a0dcc484524/Screenshot%20(25).png)
 
