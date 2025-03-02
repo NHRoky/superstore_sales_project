@@ -29,8 +29,8 @@ This project involves analyzing the Superstore Sales Data segment by customer ba
 # Customized Date Formate
 ![image alt](https://github.com/NHRoky/superstore_sales_project/blob/b73ff32398c31b00703021975e2089730f8bd045/Screenshot%20(26).png)
 
-
-
+# Find Recency, Frequency And Monetery Value
+![image alt](https://github.com/NHRoky/superstore_sales_project/blob/702030507194a18b6cfe83bc7c74deeb821e69e7/Screenshot%20(27).png)
 
 
 
