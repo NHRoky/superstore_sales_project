@@ -31,7 +31,8 @@ This project involves analyzing the Superstore Sales Data segment by customer ba
 
 # Find Recency, Frequency And Monetery Value
 ![image alt](https://github.com/NHRoky/superstore_sales_project/blob/702030507194a18b6cfe83bc7c74deeb821e69e7/Screenshot%20(27).png)
-
-
+# Final Result
+![image alt]
+(https://github.com/NHRoky/superstore_sales_project/blob/a2b0efdb7d689e2cc6813df7a2bbc563506fbdd7/Screenshot%20(30).png)
 
 
