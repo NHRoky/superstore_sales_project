@@ -26,3 +26,12 @@ This project involves analyzing the Superstore Sales Data segment by customer ba
  # Error Data clean
   ![image alt](https://github.com/NHRoky/superstore_sales_project/blob/aada18dab03c11cd9df3abc8862d3a0dcc484524/Screenshot%20(25).png)
 
+# Customized Date Formate
+![image alt](https://github.com/NHRoky/superstore_sales_project/blob/b73ff32398c31b00703021975e2089730f8bd045/Screenshot%20(26).png)
+
+
+
+
+
+
+
