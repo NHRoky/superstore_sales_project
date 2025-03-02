@@ -18,11 +18,11 @@ This project involves analyzing the Superstore Sales Data segment by customer ba
 4.  Change Date format str_to_date function.
 # Input query
  ![image alt](https://github.com/NHRoky/superstore_sales_project/blob/37d6a6fdfc8a61e9eadc1a5f6cfdfca7aec031cb/Screenshot%202025-02-27%20213914.png)
- 
  # Output
   ![image alt](https://github.com/NHRoky/superstore_sales_project/blob/1fb5cefc54375a2224f02a6968a4d22e9f4aea51/Screenshot%202025-02-27%20214019.png)
 
 # Find Total Data
  ![image alt](https://github.com/NHRoky/superstore_sales_project/blob/2a0a20fd395a30d478a100e06f866662d64e42a1/Screenshot%20(24).png)
-
+ # Error Data clean
+  ![image alt] ()
 
